@@ -1,0 +1,33 @@
+_repo: Experimental-Investigation-of-the-Spirit-Manifestations-Demonstrating-the-existence-of-spirit__64160
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hare, Robert
+    aliases:
+    - Grayson, Eldred
+    - Hare, R. (Robert)
+    birthdate: 1781
+    deathdate: 1858
+    gutenberg_agent_id: '52777'
+    url: http://www.gutenberg.org/2009/agents/52777
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Hare_(chemist)
+description: ''
+gutenberg_issued: '2020-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64160'
+  lccn: '10034695'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritualism'
+- !lcsh 'Bible and spiritualism'
+- !lcc 'BF'
+- GITenberg
+title: "Experimental Investigation of the Spirit Manifestations\r\nDemonstrating the\
+  \ existence of spirits and their communion with mortals. Doctrine of the spirit\
+  \ world respecting heaven, hell, morality, and God. Also, the influence of Scripture\
+  \ on the morals of Christians."
+url: http://www.gutenberg.org/ebooks/64160

@@ -1,5 +1,8 @@
 _repo: Experimental-Investigation-of-the-Spirit-Manifestations-Demonstrating-the-existence-of-spirit__64160
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64160-h/images/cover.jpg
 creator:
   author:
     agent_name: Hare, Robert
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52777
     wikipedia: https://en.wikipedia.org/wiki/Robert_Hare_(chemist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64160#Experimental-Investigation-of-the-Spirit-Manifestations-Demonstrating-the-existence-of-spirit_
 gutenberg_issued: '2020-12-28'
 gutenberg_type: Text
 identifiers:
